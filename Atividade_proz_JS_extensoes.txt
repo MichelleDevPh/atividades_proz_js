@@ -1,1 +1,6 @@
-Live Server é uma extensão essencial para desenvolvimento web no VSCode, pois elimina a necessidade de recarregar manualmente a página ao editar HTML, CSS ou JavaScript. Ela inicia um servidor local com hot reload, sincronizando automaticamente as alterações no navegador. Isso agiliza o fluxo de trabalho, permite testes em tempo real e é compatível com projetos front-end básicos e avançados. Sua simplicidade de uso — bastando abrir o arquivo HTML com a opção "Open with Live Server" — a torna acessível até para iniciantes. Além disso, integra-se perfeitamente com outras ferramentas como Prettier e Auto Rename Tag, consolidando-se como uma escolha eficiente para produtividade.
+Live Server é uma extensão essencial para desenvolvimento web no VSCode, pois elimina a necessidade de recarregar
+manualmente a página ao editar HTML, CSS ou JavaScript. Ela inicia um servidor local com hot reload, sincronizando
+automaticamente as alterações no navegador. Isso agiliza o fluxo de trabalho, permite testes em tempo real e é
+compatível com projetos front-end básicos e avançados. Sua simplicidade de uso — bastando abrir o arquivo HTML
+com a opção "Open with Live Server" — a torna acessível até para iniciantes. Além disso, integra-se perfeitamente
+com outras ferramentas como Prettier e Auto Rename Tag, consolidando-se como uma escolha eficiente para produtividade.
